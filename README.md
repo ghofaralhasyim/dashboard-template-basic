@@ -1,7 +1,5 @@
-# dasboard-template-basic
-- 2/20 MY HTML PROJECT MARATHON
+# Open Source HTML Dasboard
+**Template** ini merupakan bagian dari project [Ghorilard IoT](https://github.com/ghofaralhasyim/ghorilard-pwa) yang kemudian saya pisahkan untuk dijadikan template terpisah.  Feel free untuk pakai, modifikasi, dan kontribusi untuk mengembangkannya.
 
-Feel free untuk pakai, modify atau kolaborasi buat kembangin templatenya.
-
-#DEMO
+### DEMO
 https://ghofaralhasyim.github.io/dasboard-template-basic/
